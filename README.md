@@ -1,0 +1,2 @@
+# Hoster
+Wordpress Webhosting template
