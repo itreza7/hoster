@@ -1023,64 +1023,9 @@
           "class": "",
           "id": ""
         },
-        "message": "با سلام خدمت شما وبمستر عزیز :\r\nاز اینکه محصول مارا انتخاب کرده اید بسیار خشنودیم . تمامی بخش هایی پنل مدیریت محصول از سمت راست شما قابل انتخاب و کنترل است ، درصورتی که در محصول باگ یا مشکلی پیدا کردید و یا انتقاد و پیشنهادی داشتید به ما اطلاع دهید.\r\n\r\nآدرس سایت طراح : larateam.net\r\nآیدی تلگرام : itreza7",
+        "message": "با سلام خدمت شما وبمستر عزیز :\n                    \nاز اینکه محصول مارا انتخاب کرده اید بسیار خشنودیم . تمامی بخش هایی پنل مدیریت محصول از سمت راست شما قابل انتخاب و کنترل است ، درصورتی که در محصول باگ یا مشکلی پیدا کردید و یا انتقاد و پیشنهادی داشتید به ما اطلاع دهید.\n\nآدرس سایت طراح : <a href=\"https://larateam.net\" target=\"_blank\">لاراتیم</a>\n\nدرصورتی که از قالب راضی هستید من را به یک فنجان قهوه دعوت کنید :<a href=\"https://zarinp.al/larateam.net\" target=\"_blank\">پرداخت با زرین پال</a>\n\nآیدی تلگرام : <a href=\"https://t.me/itreza7\" target=\"_blank\">itreza7</a>`",
         "new_lines": "wpautop",
         "esc_html": 0
-      },
-      {
-        "key": "field_5fb6b95b892fc",
-        "label": "اطلاعات لاینسس شما",
-        "name": "license",
-        "type": "group",
-        "instructions": "",
-        "required": 0,
-        "conditional_logic": 0,
-        "wrapper": {
-          "width": "",
-          "class": "",
-          "id": ""
-        },
-        "layout": "row",
-        "sub_fields": [
-          {
-            "key": "field_5fb6b997bebc8",
-            "label": "نام کاربری",
-            "name": "username",
-            "type": "text",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-              "width": "",
-              "class": "",
-              "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
-          },
-          {
-            "key": "field_5fb6b9a5bebc9",
-            "label": "شماره سفارش",
-            "name": "order_id",
-            "type": "text",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-              "width": "",
-              "class": "",
-              "id": ""
-            },
-            "default_value": "",
-            "placeholder": "",
-            "prepend": "",
-            "append": "",
-            "maxlength": ""
-          }
-        ]
       }
     ],
     "location": [

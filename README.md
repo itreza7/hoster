@@ -34,3 +34,15 @@ Everything you need for a professional hosting template is provided by the hosti
 - Manage customer logos and views
 - Manage special offers under the site menu
 - And another possibility, the other part of which you can read in the update reports.
+
+## Requirements plugin
+- Advanced custom fields
+- Revolution Slider
+- Visual Composer WP Bakery
+
+
+## Template Demo
+[https://demo.larateam.net/hoster/](https://demo.larateam.net/hoster/)
+
+## Download Easy Installer and full package
+For downloading hoster full package Enter to our telegram channel [@larateamnet](https://t.me/larateamnet)
