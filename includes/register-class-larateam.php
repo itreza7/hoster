@@ -3,16 +3,9 @@ if(!class_exists('LarateamHoster')){
     final class LarateamHoster
     {
         private static $instance = null;
-        private static $template_data = [
-            'product_title' => 'هاستر',
-            'product_slug' => 'hoster',
-            'product_id' => '100'
-        ];
-        private $license_status = 0;
 
         private function __construct()
         {
-            add_action('wp_footer', [$this, 'footer'], 1);
             add_action('tgmpa_register', [$this, 'tgm']);
         }
 
